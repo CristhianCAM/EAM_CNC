@@ -1,0 +1,5 @@
+nombre: miguel
+apellido: herrera
+correo: miguel@gmail.com
+RH:A+
+cm:

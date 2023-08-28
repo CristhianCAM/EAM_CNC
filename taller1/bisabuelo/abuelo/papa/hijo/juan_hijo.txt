@@ -1,0 +1,5 @@
+nombre: juan
+apellido: herrera
+correo: juan@gmail.com
+RH:A+
+cm:
