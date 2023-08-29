@@ -19,7 +19,7 @@ date
 
 
 #documentacion leer archivos usuarios 
-#cat /etc/passwd
+#cat /etc/passwd/h
 
 mensajes
 fecha
